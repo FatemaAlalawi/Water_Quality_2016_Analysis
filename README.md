@@ -14,5 +14,4 @@ https://zenodo.org/records/3884398
 we found out that water is safe for drinking and within the recommeded standards provided py WHO for both normal and change detection datasets. the trends of water quality parameters with time was increasing, decreasing, or falcutating with no clear trend, beacuse of defferent factors affected each parameter. Some parameters was related to each othe while others are not even chemically it should be, this probably caused by either inaccurate sensors readings or presence of other materials that affected it and changed it is behavior. 
 
 ## Dependencies
-1- Pandas
-2- Matplotlib.pyplot
+Pandas and Matplotlib.pyplot
