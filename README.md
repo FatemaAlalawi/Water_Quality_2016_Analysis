@@ -18,10 +18,3 @@ The analysis involves implementing a change detection system to identify shifts 
 
 The analytical process confirms the water is safe for drinking despite the presence of some anomalous changes, providing crucial insights that ensure public confidence in a vital resource. Furthermore, our analysis revealed that while some water quality parameters are correlated, others show no correlation, even when it is chemically plausible. This discrepancy suggests either sensor inaccuracies or the presence of other factors influencing the readings.
 
-## How to Run
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Ensure you have Python installed on your system.
-4. Install the required dependencies using pip:
-   ```bash
