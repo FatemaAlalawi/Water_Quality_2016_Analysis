@@ -13,10 +13,8 @@ https://zenodo.org/records/3884398
 ## Analysis
 
 we found out that water is safe for drinking and within the recommeded standards provided py WHO for both normal and change detection datasets. the trends of water quality parameters with time was increasing, decreasing, or falcutating with no clear trend, beacuse of defferent factors affected each parameter. Some parameters was related to each othe while others are not even chemically it should be, this probably caused by either inaccurate sensors readings or presence of other materials that affected it and changed it is behavior. 
-![Factors influence on each other](/Assets/waterquality1.png)
-![Factors influence on each other](/Assets/waterquality2.png)
 
-## Coclusion
+## Dependencies
 
 The analytical process confirms the water is safe for drinking despite the presence of some anomalous changes, providing crucial insights that ensure public confidence in a vital resource. Furthermore, our analysis revealed that while some water quality parameters are correlated, others show no correlation, even when it is chemically plausible. This discrepancy suggests either sensor inaccuracies or the presence of other factors influencing the readings.
 
