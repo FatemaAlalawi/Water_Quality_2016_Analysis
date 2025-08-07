@@ -15,8 +15,8 @@ https://zenodo.org/records/3884398
 ## Analysis
 
 The analysis involves implementing a change detection system to identify shifts in water quality over time. Key findings include the identification of significant anomalies related to water quality indicators, which can alert water supply companies to potential issues.
-/Assets/waterquality1.png
-/Assets/waterquality2.png
+![Factors influence on each other](/Assets/waterquality1.png)
+![Factors influence on each other](/Assets/waterquality2.png)
 
 ## Coclusion
 
