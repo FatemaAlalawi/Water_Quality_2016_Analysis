@@ -1,20 +1,18 @@
 
-**Factors Influencing Water Quality Monitoring**
+**Decoding the Flow**
 
 ## Description
 
-This project explores the various factors that influence drinking water quality, focusing on the development of effective monitoring and change detection systems. The goal is to enhance the detection of anomalies in water quality data, enabling timely interventions by water supply companies.
-While an online anomaly detection system provides a usefull detection for changes in the water quality indicators but to be fully actionable requires in-depth analysis 
-
+ Analysis of water quality validation for an online anomaly detection system output was performed. Tha main objectives of this analysis is providing a trust that water is safe for drinking at both normal and change detection datasets, visualizing parameter trends over time, and exploring Parameter relationships through correlation analysis. As a result, we found out that  water is safe for drinking and within the recommeded standards provided py WHO for both normal and change detection datasets. the trends of water quality parameters with time was increasing, decreasing, or falcutating with no clear trend, beacuse of defferent factors affected each parameter. Some parameters was related to each othe while others are not even chemically it should be, this probably caused by either inaccurate sensors readings or presence of other materials that affected it and changed it is behavior.  
 
 ## Dataset
 
-The dataset used for this analysis is provided by Thüringer Fernwasserversorgung. It includes time series data of water quality indicators such as temperature, pH, chlorine levels, and turbidity, measured at various points in the water distribution system.
+The dataset used for this analysis is provided by Online Anomaly Detection system for Drinking Water Quality at the Genetic and Evolutionary Computation Conference 2018, Kyoto, Japan, 2018 . It includes time series data of water flow rate, temperature and quality indicators (pH, chlorine dioxide concentration, turbidity, redox potential, and electrical conductivity.
 https://zenodo.org/records/3884398
 
 ## Analysis
 
-The analysis involves implementing a change detection system to identify shifts in water quality over time. Key findings include the identification of significant anomalies related to water quality indicators, which can alert water supply companies to potential issues.
+we found out that water is safe for drinking and within the recommeded standards provided py WHO for both normal and change detection datasets. the trends of water quality parameters with time was increasing, decreasing, or falcutating with no clear trend, beacuse of defferent factors affected each parameter. Some parameters was related to each othe while others are not even chemically it should be, this probably caused by either inaccurate sensors readings or presence of other materials that affected it and changed it is behavior. 
 ![Factors influence on each other](/Assets/waterquality1.png)
 ![Factors influence on each other](/Assets/waterquality2.png)
 
