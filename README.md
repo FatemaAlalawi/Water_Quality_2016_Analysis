@@ -15,7 +15,10 @@ https://zenodo.org/records/3884398
 ## Analysis
 
 The analysis involves implementing a change detection system to identify shifts in water quality over time. Key findings include the identification of significant anomalies related to water quality indicators, which can alert water supply companies to potential issues.
+/Assets/waterquality1
+/Assets/waterquality2
 
+## Coclusion
 
 The analytical process confirms the water is safe for drinking despite the presence of some anomalous changes, providing crucial insights that ensure public confidence in a vital resource. Furthermore, our analysis revealed that while some water quality parameters are correlated, others show no correlation, even when it is chemically plausible. This discrepancy suggests either sensor inaccuracies or the presence of other factors influencing the readings.
 
