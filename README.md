@@ -4,6 +4,8 @@
 ## Description
 
 This project explores the various factors that influence drinking water quality, focusing on the development of effective monitoring and change detection systems. The goal is to enhance the detection of anomalies in water quality data, enabling timely interventions by water supply companies.
+While an online anomaly detection system provides a usefull detection for changes in the water quality indicators but to be fully actionable requires in-depth analysis 
+
 
 ## Dataset
 
